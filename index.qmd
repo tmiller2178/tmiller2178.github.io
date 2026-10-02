@@ -1,0 +1,20 @@
+---
+title: "Trevor Miller"
+image: "IMG_4933.jpeg"
+
+about:
+  template: trestles
+  links:
+  - icon: github
+    text: GitHub
+    href: https://github.com/tmiller2178
+  - icon: linkedin
+    text: LinkedIn
+    href: https://linkedin.com/in/trevor-miller-b743283b3
+  - icon: inboxes
+    text: Contact
+    href: mailto:millertrevor0725@gmail.com
+---
+
+I am an Industrial Engineering and Finance student at the University of Arkansas. During my time as a student, I have learned 3D-modeling to build prototype designs along with previous experience in 3D-printing. When I am not studying, you can find me taking on new projects, reading, or hiking in nature. After I complete my undergraduate degree, I plan on attending graduate school and working in finance consulting utilizing the skills learned from my Industrial Engineering degree.
+---
