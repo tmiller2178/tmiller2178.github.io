@@ -9,49 +9,49 @@
   {
     "objectID": "posts/Data Visualization/data-visualization.html",
     "href": "posts/Data Visualization/data-visualization.html",
-    "title": "Trevor Miller ePortfolio",
+    "title": "U.S. Aviation: Flight Activity and Delays",
     "section": "",
-    "text": "title: “U.S. Aviation: Flight Activity and Delays”\nformat: html"
+    "text": "Peyton Meierhoff\nTrevor Miller\nMark Tudor\nSamuel Otterburg Franco\nKrutarth Prajapati"
   },
   {
     "objectID": "posts/Data Visualization/data-visualization.html#team-members",
     "href": "posts/Data Visualization/data-visualization.html#team-members",
-    "title": "Trevor Miller ePortfolio",
-    "section": "Team Members",
-    "text": "Team Members\n\nPeyton Meierhoff\nTrevor Miller\nMark Tudor\nSamuel Otterburg Franco\nKrutarth Prajapati"
+    "title": "U.S. Aviation: Flight Activity and Delays",
+    "section": "",
+    "text": "Peyton Meierhoff\nTrevor Miller\nMark Tudor\nSamuel Otterburg Franco\nKrutarth Prajapati"
   },
   {
     "objectID": "posts/Data Visualization/data-visualization.html#dataset-description",
     "href": "posts/Data Visualization/data-visualization.html#dataset-description",
-    "title": "Trevor Miller ePortfolio",
+    "title": "U.S. Aviation: Flight Activity and Delays",
     "section": "Dataset Description",
     "text": "Dataset Description\nOur team analyzed commercial aviation data from the U.S. Bureau of Transportation Statistics (BTS). The dataset contains 539,747 scheduled flight records from January 2025, including flight dates, airlines, departure delays, arrival delays, cancellations, flight times, and flight distances.\nWe used Microsoft Excel to analyze daily flight activity, compare airline operations, and examine patterns in flight delays."
   },
   {
     "objectID": "posts/Data Visualization/data-visualization.html#question-1-daily-scheduled-flights",
     "href": "posts/Data Visualization/data-visualization.html#question-1-daily-scheduled-flights",
-    "title": "Trevor Miller ePortfolio",
+    "title": "U.S. Aviation: Flight Activity and Delays",
     "section": "Question 1: Daily Scheduled Flights",
     "text": "Question 1: Daily Scheduled Flights\n\nResearch Question\nHow does the number of scheduled flights change from day to day throughout January 2025?\n\n\nWhy This Question Is Interesting\nDaily flight activity can reveal patterns in airline schedules and travel demand. Understanding these changes helps us see how flight volume varies throughout the month.\n\n\nExcel Analysis\nWe used Microsoft Excel to create a PivotTable that counted scheduled flight records for each day in January 2025, including cancelled flights. We then created a line chart to visualize the daily changes.\n\n\nResults and Visualization\nDaily scheduled flights fluctuated throughout January 2025, ranging from 14,690 to 19,676 flights, a difference of nearly 5,000.\n\n\nSlide Development\nWe created an assertion-evidence slide in PowerPoint using our Excel line chart. The slide features a conclusion-based headline and a labeled graph showing daily flight activity.\n\n\n\nDaily Scheduled Flights in January 2025"
   },
   {
     "objectID": "posts/Data Visualization/data-visualization.html#question-2-scheduled-flights-by-airline",
     "href": "posts/Data Visualization/data-visualization.html#question-2-scheduled-flights-by-airline",
-    "title": "Trevor Miller ePortfolio",
+    "title": "U.S. Aviation: Flight Activity and Delays",
     "section": "Question 2: Scheduled Flights by Airline",
     "text": "Question 2: Scheduled Flights by Airline\n\nResearch Question\nWhich airlines operated the most scheduled flights during January 2025?\n\n\nWhy This Question Is Interesting\nComparing scheduled flights across airlines helps us understand the relative scale of airline operations.\n\n\nExcel Analysis\nWe used Microsoft Excel to count scheduled flight records for each airline and created a bar chart to compare the results.\n\n\nResults and Visualization\nSouthwest Airlines operated the most scheduled flights in January 2025, showing the highest flight volume among the reporting airlines.\n\n\nSlide Development\nWe created an assertion-evidence slide using the Excel bar chart. The slide highlights the airline with the most scheduled flights and compares flight activity across carriers.\n\n\n\nScheduled Flights by Airline"
   },
   {
     "objectID": "posts/Data Visualization/data-visualization.html#question-3-arrival-delay-distribution",
     "href": "posts/Data Visualization/data-visualization.html#question-3-arrival-delay-distribution",
-    "title": "Trevor Miller ePortfolio",
+    "title": "U.S. Aviation: Flight Activity and Delays",
     "section": "Question 3: Arrival Delay Distribution",
     "text": "Question 3: Arrival Delay Distribution\n\nResearch Question\nWhat is the distribution of arrival delays among flights in January 2025?\n\n\nWhy This Question Is Interesting\nUnderstanding arrival delays helps us see how frequently flights arrive early, on time, or late, and whether extreme delays are common.\n\n\nExcel Analysis\nWe used Microsoft Excel to group arrival delay values into intervals and created a histogram to visualize their frequency. Flights with missing arrival delay values were excluded from the analysis.\n\n\nResults and Visualization\nMost flights arrived early or experienced relatively small delays, while a smaller number experienced significantly longer delays.\n\n\nSlide Development\nWe created an assertion-evidence slide using the Excel histogram. The slide highlights the concentration of flights around smaller delays and shows how the frequency decreases as delays become longer.\n\n\n\nArrival Delay Distribution in January 2025"
   },
   {
     "objectID": "posts/Data Visualization/data-visualization.html#question-4-flight-distance-vs.-departure-delay",
     "href": "posts/Data Visualization/data-visualization.html#question-4-flight-distance-vs.-departure-delay",
-    "title": "Trevor Miller ePortfolio",
+    "title": "U.S. Aviation: Flight Activity and Delays",
     "section": "Question 4: Flight Distance vs. Departure Delay",
     "text": "Question 4: Flight Distance vs. Departure Delay\n\nResearch Question\nIs flight distance associated with how late a flight departs?\n\n\nWhy This Question Is Interesting\nWe wanted to investigate whether longer flights experience different departure delays compared to shorter flights. Understanding this relationship can help us identify possible patterns in airline operations.\n\n\nExcel Analysis\nWe used Microsoft Excel to create a scatter plot comparing flight distance (miles) with departure delay (minutes). Records with missing values were excluded, while negative delays were retained because they represent early departures.\n\n\nResults and Visualization\nThe scatter plot allows us to examine whether flight distance and departure delays are related. The overall relationship is evaluated by looking at the distribution and pattern of the data points.\n\n\nSlide Development\nWe created an assertion-evidence slide in PowerPoint using the Excel scatter plot. The graph displays flight distance on the horizontal axis and departure delay on the vertical axis, allowing us to visually assess the relationship between the two variables.\n\n\n\nFlight Distance vs. Departure Delay"
   },
@@ -74,6 +74,13 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nTeam Members\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Our team completed a data visualization project using Excel to analyze a dataset and answer four research questions.\nView Data Visualization Project"
+  },
+  {
+    "objectID": "projects.html#data-visualization-team-project",
+    "href": "projects.html#data-visualization-team-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Our team completed a data visualization project using Excel to analyze a dataset and answer four research questions.\nView Data Visualization Project"
   }
 ]

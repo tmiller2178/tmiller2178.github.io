@@ -1,7 +1,8 @@
 ---
 title: "Projects"
 listing:
-  contents: posts
+  contents:
+    - posts
   sort: "date"
   type: grid
   categories: false
@@ -10,3 +11,9 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+## Data Visualization Team Project
+
+Our team completed a data visualization project using Excel to analyze a dataset and answer four research questions.
+
+[View Data Visualization Project](posts/Data%20Visualization/data-visualization.qmd)
